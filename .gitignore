@@ -1,0 +1,11 @@
+# Node
+node_modules
+.env
+package-lock.json
+
+# tests
+test
+
+#build
+build
+sentry-release-name.txt
